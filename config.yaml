@@ -1,6 +1,6 @@
 languageCode: en-us
 title: A Sea of Sleep
-baseURL: http://localhost:1313/
+baseURL: https://determined-bose-17e351.netlify.app/
 theme: hugo-theme-massively
 googleanalytics: ''
 disqusShortname: ''
