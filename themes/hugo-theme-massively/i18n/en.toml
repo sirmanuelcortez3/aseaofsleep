@@ -9,7 +9,7 @@
 [CONTACT_FORM_FIELD_NAME]
   other = "Name"
 [CONTACT_FORM_SUBMIT_SEND_MESSAGE]
-  other = "Send A Message"
+  other = "Button Broken -> Email Instead :)"
 [CONTACT_PHONE]
   other = "Phone"
 [CONTACT_SOCIAL]
