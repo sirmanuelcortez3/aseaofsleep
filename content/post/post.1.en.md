@@ -1,6 +1,6 @@
 ---
 date: 2021-11-17T00:00:00
-description: Flowers from Algernon Review with Spoilers
+description: Flowers for Algernon Review with Spoilers
 disableComments: true
 image: images/Monument_to_lab_mouse-1.jpg
 slug: post
