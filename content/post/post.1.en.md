@@ -3,7 +3,7 @@ date: 2021-11-17T00:00:00
 description: Flowers for Algernon Review with Spoilers
 disableComments: true
 image: images/Monument_to_lab_mouse-1.jpg
-slug: post
+slug: post1
 title: Remember to Leave Some Flowers for Algernon
 ---
 (Both a fun fact and a side note: Look up “The Monument to the laboratory mouse”, a sculpture in Novosibirsk' Akademgorodok, Siberia, Russia)

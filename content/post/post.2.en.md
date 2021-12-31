@@ -1,12 +1,12 @@
 ---
 date: 2021-12-31T00:00:00
-description: Chapter 1 - Exercept 1
+description: Chapter 1 - Excerpt 1
 disableComments: true
 image: images/pic03.jpg
-slug: post
+slug: post2
 title: Normality and Familiarity
 ---
-	The New Year! We did it guys! We survived another one! Time moves forward, life moves on, and we follow along with it.
+The New Year! We did it guys! We survived another one! Time moves forward, life moves on, and we follow along with it.
 	I’m not sure about the people around me, or about the people I once knew, but life is getting kind of stagnant. No, I don’t mean achievements nor accolades, but the sentiment that comes along that stuff.
 	We get a new job that we enjoy, we’re awarded a new certificate, we find new friends and we move forward in our relationships, but the emotions all drift away with each passing memory.
 	So, what do we do with it all?
