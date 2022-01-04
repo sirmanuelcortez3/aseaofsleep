@@ -2,7 +2,7 @@
 date: 2021-12-31T00:00:00
 description: Chapter 1 - Excerpt 1
 disableComments: true
-image: images/myth_of_sysphus.jpg
+image: images/myth_of_sysphus.jpeg
 slug: post2
 title: Normality and Familiarity
 ---
