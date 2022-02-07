@@ -24,7 +24,7 @@ date: "2022-02-06T00:00:00"
 ```
    
 <div class="container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uD4izuDMUQA&t=436s" allowfullscreen></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uD4izuDMUQA" allowfullscreen></iframe>
 </div>
 
 
