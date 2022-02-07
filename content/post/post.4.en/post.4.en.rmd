@@ -1,9 +1,33 @@
 ---
 title: "TIMELAPSE OF THE FUTURE"
-description: Existential Dread
+description: And so the universe will end not with a bang, but with a whimper... and time becomes meaningless
 date: "2022-02-06T00:00:00"
-css: "post.4.en.css"
 ---
+```{css, echo=FALSE}
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+```
+   
+<div class="container">
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/uD4izuDMUQA&t=436s" allowfullscreen></iframe>
+</div>
+
+
 It's been a while since I've posted so instead of pontificating, I'll post one of my favorite videos on YouTube. Watch the video and accompany me on my journey through time.
 
 Created: Sunday, February 6, 2022
