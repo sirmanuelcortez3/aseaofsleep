@@ -7,4 +7,4 @@ image: images/Barbell.jpeg
 Fun fact: I am also a certified personal trainer as well (no longer active). Whether I was a good one is still up for debate.
 Here is a free beginner program (version 1). It is one month in duration and sufficient for most people starting out. Email me if you have any questions :).
 
-Created: Tuesday, January 3, 2022
+Created: Tuesday, 3 January, 2022
