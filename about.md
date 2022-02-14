@@ -1,8 +1,8 @@
 ---
-date: "`r Sys.Date()`"
 description: "About the Author"
 image: images/Anscombes_Quartet.PNG
 title: "N=1"
+slug: "about"
 ---
 
 ## Who I Am
